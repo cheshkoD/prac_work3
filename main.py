@@ -19,7 +19,7 @@ print()
 
 #Python program to add all the numbers entered by a user until user enters 0.
 print('#4')
-print("Input some integers to calculate their sum. Input 0 to exit.")
+print("Input integers to calculate their sum. Input 0 to exit.")
 a = 0
 sum = 0
 integer = 1
